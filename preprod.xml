@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<rss version="3.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <!-- Taken from larryaasen/upgrader/master/test/testappcast github -->
   <channel>
     <title>For unit test only</title>
     <item>
@@ -40,7 +41,7 @@
     <item>
         <title>Version 5.0</title>
         <sparkle:version>5.0</sparkle:version>
-        <sparkle:maximumSystemVersion>2.0.0</sparkle:maximumSystemVersion>
+        <sparkle:maximumSystemVersion>3.0.0</sparkle:maximumSystemVersion>
     </item>
   </channel>
 </rss>
